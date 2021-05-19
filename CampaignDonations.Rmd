@@ -104,4 +104,7 @@ What can? We speculate that the internet has made fundraising much easier and al
 
 Having examined donation trends by party and donation level, we next combine both frameworks. In our Shiny app, the user can compare how much money selected candidates raised from specified donation categories. The same inflation issues apply, so we've left everything in nominal terms, but some interesting comparisons are still possible. For example, in 2012 Mitt Romney raised more money than Barack Obama from donations over \$2000. The 2016 election, however, saw a sharp reversal: Hillary Clinton raised more than Donald Trump from donations over \$2000. We invite you compare other candidates as well using the link below:
 
+https://slawton21.shinyapps.io/Blog-Seamus-Matthew/
+
+
 

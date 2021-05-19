@@ -168,6 +168,7 @@ https://mattperk.shinyapps.io/Margins/
 
 Based on these observations, it is clear that fundraising totals can be somewhat predictive of election results, but only if analyzed very cautiously. In the future, we plan to build a model which takes into account fundraising and national polling to predict state to state results. Fortunately, this is extremely easy to backtest, and it would be very interesting to see if a model can be made that can consistently outperform statewide polling. While such a model is probably unlikely to perform that well by itself, it would be a useful piece of a more robust model taking into account additional parameters.
 
+Additionally, combining this methodology with our analysis of large and small donations in each state may help provide even greater insight into how candidates will perform. We expect that smaller donations will continue to rise as everyday individuals and young people become more engaged in politics, especially among democrats, but we do not yet know how this is likely to influence election outcomes. Future work will help to answer the question of how specific types of donations are correlated with candidate success across different states.
 
 # Sources
 

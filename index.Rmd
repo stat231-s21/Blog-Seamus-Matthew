@@ -126,7 +126,7 @@ Inflation presents another problem. A \$900 donation in 2000 is the equivalent o
 
 Given these issues, we've decided to leave the values in the chart in nominal terms (not adjusting for inflation). This is unfortunate, but there is one redeeming quality: Inflation has been quite low over the past 20 years, especially since the Great Recession. A dollar in 2008 is worth only \$1.18 today, so inflation alone cannot explain the dramatic increases in campaign donations.
 
-![Inflation of the U.S. Dollar Over Time](Inflation.PNG)
+![Inflation of the U.S. Dollar Over Time](CPI Inflation.jpg)
 
 ## Fundraising Audience and Donation Trends
 
@@ -176,5 +176,5 @@ https://fec.gov/data/elections/president/#### (where #### is the presidential el
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX
 
 ### Inflation Diagram
-https://www.katespadarotto.com/katespad-blog/2019/7/21/us-inflation-rate-1969-to-2019
+https://www.in2013dollars.com/current-inflation-rate
 
